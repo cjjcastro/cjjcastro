@@ -1,4 +1,7 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=cjjcastro&repo=cjjcastro&countColorcountColor)
+
 ### Hi there 👋
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjcastro)](https://github.com/anuraghazra/github-readme-stats)
 
