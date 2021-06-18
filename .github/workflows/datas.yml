@@ -1,9 +1,6 @@
 name: generate animation
 
-on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+on: push
 
 jobs:
   snake-animation:
@@ -13,7 +10,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: platane
+          github_user_name: cjjcastro
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
