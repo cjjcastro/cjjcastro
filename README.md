@@ -9,6 +9,8 @@
 </a>
 </p>
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjjcastro&theme=vue" />
+
 <!--
 **cjjcastro/cjjcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
