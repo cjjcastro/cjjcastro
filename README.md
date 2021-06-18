@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![Snake animation](https://github.com/cjjcastro/cjjcastro/blob/output/github-contribution-grid-snake.svg)
+
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
