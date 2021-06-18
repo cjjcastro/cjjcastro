@@ -1,6 +1,8 @@
 name: generate animation
 
 
+on: push
+
 jobs:
   snake-animation:
     runs-on: ubuntu-latest
