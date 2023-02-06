@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=cjjcastro&repo=cjjcastro&countColorcountColor)
+![Profile Views](https://api.visitorbadge.io/api/VisitorHit?user=cjjcastro)
 
 ### Hi there 👋
 
