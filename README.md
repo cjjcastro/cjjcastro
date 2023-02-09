@@ -24,13 +24,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 ### Analytics ⚙️
-
+<!-- 
 <p align="left">
 <a href="https://github.com/cjjcastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=cjjcastro&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjjcastro&layout=compact&langs_count=8"/>
 </a>
-</p>
+</p> -->
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjjcastro&theme=default" />
 
